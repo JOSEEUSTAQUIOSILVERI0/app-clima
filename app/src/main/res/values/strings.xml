@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather_info">Temp: %1$s°C\nDescription: %2$s\nHumidity: %3$s%%</string>
+
+</resources>
